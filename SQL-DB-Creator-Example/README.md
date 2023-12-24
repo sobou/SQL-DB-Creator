@@ -6,7 +6,7 @@ SQL DB Creator
 This are two examples, one for mysql and one for postgressql, of how to use the crate 'sql_db_creator'
 to generate sql databases from only using json files.
 
-Source code of this lib: https://github.com/Sok-Bou/SQL-DB-Creator
+Source code of this lib: https://github.com/sobou/SQL-DB-Creator/tree/main/SQL-DB-Creator/sql_db_creator
 
 crate: https://crates.io/crates/sql_db_creator
 
